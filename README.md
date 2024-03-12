@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Luna</h1>
-<h3 align="center">A passionate developerfrom Mexico</h3>
+<h3 align="center">A passionate developer from Mexico/United States</h3>
 
 - 🌱 I’m currently learning **Swift/Flutter/ReactNative**
 
@@ -7,11 +7,12 @@
 
 - 💬 Ask me about **Swift**
 
-- 📫 How to reach me **lluna@cetys.edu.mx.com**
+- 📫 How to reach me **lluna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-leonardo-luna-2479b123b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-leonardo-luna-2479b123b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
+<a href="https://twitter.com/leoluna_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leoluna_x" height="30" width="40" /></a>
+<a href="https://instagram.com/leolunax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leolunax" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
