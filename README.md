@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Swift**
 
-- 📫 How to reach me **lluna@cetys.edu.mx.com**
+- 📫 How to reach me **lluna@cetys.edu.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
